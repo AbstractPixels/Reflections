@@ -9,3 +9,6 @@ A- Only add the files that have to do with that change.
 
 Q- What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A- When introducing new features they help to keep the project organized into just the features that are changing while keeping the main project seperate.
+
+Q- How do the diagrams help you visualize the branch structure?
+A- Easily decipher where the commits are and which ones will be lost by switching branches
