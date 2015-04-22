@@ -3,3 +3,6 @@ A- git starts tracking all files inside that directory. To make sure git is runn
 
 Q- How is the staging area different from the working directory and the repository? What value do you think it offers?
 A- It holds the files that will be included in the next commit. It helps to seperate files that need to be commited together. and ones that don't
+
+Q- How can you use the staging area to make sure you have one commit per logical change?
+A- Only add the files that have to do with that change
