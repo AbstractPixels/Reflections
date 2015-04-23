@@ -12,3 +12,6 @@ A- When introducing new features they help to keep the project organized into ju
 
 Q- How do the diagrams help you visualize the branch structure?
 A- Easily decipher where the commits are and which ones will be lost by switching branches
+
+Q- What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A- Brings all commits from the 2 branches together into 1 single final branch. We diagram it to easilu understand if we are losing commits.
