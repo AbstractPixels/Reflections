@@ -15,3 +15,6 @@ A- Easily decipher where the commits are and which ones will be lost by switchin
 
 Q- What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A- Brings all commits from the 2 branches together into 1 single final branch. We diagram it to easilu understand if we are losing commits.
+
+Q- What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A- Pros: Merges code without having to open it and add the peices manually. Cons: When 2 people are working on same file can cause conflicts that have to be resolved manually.
